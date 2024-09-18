@@ -1,32 +1,4 @@
 # MeuPrimeiroCommit
-<<<<<<< HEAD
-Mostra as pastas exixtentes
-dir
-
-entra na pasta
-cd MeuPrimeiroCommit/
-
-para abrir o VS Code
-code . 
-
-verifiar os status dos arquivos
-git status
-
-Para adicionar as alterações para pasta atual
-git add . 
-
-Verificar os status dos arquivos foram adiciomados
-git status
-
-Criar um commit após adicionar os arquivos
-git commit -m "Alteração do arquivo Readme"
-
-Para logar na minha conta do GitHub
-git log
-
-Para enviar para nuvem
-git push
-=======
 #### excluir credencias existentes na maquina
 ```cmdkey /delete:LegacyGeneric:Target=git:https://github.com```
 
@@ -63,4 +35,3 @@ git push
 
 #### Para enviar para nuvem
 ```git push```
->>>>>>> d637b2566ccecc240654311055a81f937dcc515c
