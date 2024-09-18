@@ -7,7 +7,7 @@
 ```git config --global user.email "seu email"```
 
 #### E um utilitário de linha de comando que permite trabalhar no projeto como se estivesse no original
-```git clone https://github.com/anycalais/MeuPrimeiroCommit.git```
+```git clone https://github.com/fernandastocler/MeuPrimeiroCommit.git```
 
 #### Mostrar as pastas existentes
 ```dir```
